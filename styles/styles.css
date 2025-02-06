@@ -1,0 +1,109 @@
+*  { font-family: "Lora", serif;
+
+}
+
+
+
+h3{
+    color:#800080 
+}
+
+
+   
+p {   
+
+     color:#0000BF;
+
+  }
+
+
+
+
+
+     #nav-list {
+
+            color: #0000BF;
+          background: color #8b008b;;
+
+     }
+
+
+      .title {   
+
+         color: #649; 
+        font-size:1.7rem;
+       font-weight:bolder;
+     
+      }
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     .box1{
+
+        background-color: aquamarine;
+
+        padding: 1rem;
+        margin: 2rem;
+        border-width: 20px;
+        border-style: solid;
+        border-color:blue;
+
+     }
+   
+   
+   
+   
+     .caja-padre {   
+
+     background-color:grey; 
+     padding: 1rem;
+     display: flex;
+
+
+     flex-direction:row;
+     justify-content: space-around;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
