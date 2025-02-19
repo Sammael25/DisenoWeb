@@ -68,13 +68,13 @@ border-style: inset;
      display: flex;
       background-color: #000000;
 
-      padding: 2rem;
+      padding: 12rem;
 
         display: flex;
 
-      flex-direction: column;
+      flex-direction:row:
 
-      justify-content: center;
+      
 
 
 
@@ -87,7 +87,7 @@ border-style: inset;
 
    flex-direction: column;
     align-items: center;
-   background-color:darkorange;
+   background-color:whitesmoke;
 
 
      }
@@ -99,14 +99,14 @@ border-style: inset;
       flex-direction: row;
  
       justify-content: space-around;
-       color: #ff0000;
+       color:blue;
        
 
      }
      
      .navbar  > a    {
 
-      color: #ff0000;
+      color:blue;
 
 
      }
@@ -127,8 +127,8 @@ opacity: 80%;
      .texto-inicial {
 
      display: flex;
-     background-color: darkorange;
-     color:#ff0000
+     background-color: white;
+     color:#0000BF
      flex-direction: column;
 align-items: center;
 
@@ -154,11 +154,15 @@ width: 100%;
      
      
      
+   .all{
+
+background-color:black;
+
+color: darkcyan;
      
-     
-     
-     
-     
+   }
+    
+  
      
      
 
